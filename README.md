@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/trickytank/Bio-SNP-TOPBOT.svg?branch=master)](https://travis-ci.org/trickytank/Bio-SNP-TOPBOT)
+[![Build Status](https://travis-ci.org/bahlolab/Bio-SNP-TOPBOT.svg?branch=master)](https://travis-ci.org/bahlolab/Bio-SNP-TOPBOT)
 
 # Bio-SNP-TOPBOT
 Bio::SNP::TOPBOT, Perl module to determine strand of single nucleotide polymorphisms (SNPs) using Illumina's TOP/BOT designation. 
